@@ -1,0 +1,79 @@
+.design_exercise1{
+    width: 76%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 50px;
+}
+.design_exercise1 .design_p{
+    margin-top: 20px;
+}
+.design_exercise1 input{
+    margin-top: 20px;
+}
+.tinhtiendien{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+.tinhtiendien a{
+    display: block;
+}
+.tinhtiendien input{
+    width: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 30px;
+}
+.tinhtiendien p{
+    margin-top: 20px;
+}
+.tinhtienthue{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+.tinhtienthue input{
+    width: 280px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 30px;
+}
+.tinhtienthue p{
+    margin-top: 20px;
+}
+.tinhtienthue a{
+    display: block;
+}
+
+
+
+.tinhtiencap{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.tinhtiencap input{
+    width: 280px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 30px;
+    
+}
+.tinhtiencap p{
+    margin-top: 20px;
+}
+.tinhtiencap a{
+    display: block;
+}
+.tinhtiencap select{
+    
+    text-align: center;
+}
+.tinhtiencap span{
+    display: block;
+    color: red;
+}
